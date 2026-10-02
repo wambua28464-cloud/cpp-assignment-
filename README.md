@@ -1,3 +1,5 @@
+Faith mueni wambua 
+CT101/G/28464
 # cpp-assignment-
 C++ Programming Assignment
 
